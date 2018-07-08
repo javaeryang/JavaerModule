@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Javaer</string>
+    <string name="tip">Hello,朋友,感谢使用本模块,之前一直未更新,准备弃坑,是因为没有时间,今天是周末(compile:20180701),就新建了这个项目,供大家玩耍,语文不太好,一直用逗号.如果你喜欢这些功能,请期待下一次更新,此纯净模块,请(各位)勿修改.(谨以此模块祭奠我dead youth)</string>
+    <string name="tip_1">此模块的配置界面,在微信主界面右上角(需要在xposed框架内勾选激活,硬重启手机)点击菜单,会弹出配置对话框,然后按你的喜好开闭开关即可,最后,Have Fun:)</string>
+</resources>
